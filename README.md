@@ -9,15 +9,11 @@ However, I always researched game controllers that use mechanical keyboard keys.
 
 And i found these designs below:
 
+[FightBoard](https://thnikk.moe/)
 ![image](files/fightboard.png)
 
-[FightBoard](https://thnikk.moe/)
- 
- 
- 
-![image](files/c64joykey.png)
-
 [C64 Joy Key](https://github.com/tebl/C64-JoyKEY)
+![image](files/c64joykey.png)
 
 Based on these designs, I decided to make a version to be used on both Sega Mega Drive and MSX computer ([with the joymega adapter](https://frs.badcoffee.info/hardware/joymega-en.html)). 
 I made a prototype, by hand, using aluminum sheet and plywood.
