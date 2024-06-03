@@ -13,7 +13,7 @@ And i found these designs below:
 
 (FightBoard : https://thnikk.moe/)
 
-![image](files/C64joykey.png)
+![image](files/c64joykey.png)
 
 (C64 Joy Key: https://github.com/tebl/C64-JoyKEY )
 
