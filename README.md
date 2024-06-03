@@ -9,10 +9,10 @@ However, I always researched game controllers that use mechanical keyboard keys.
 
 And i found these designs below:
 
-![image](photos/fightboard.png)
+![image](files/fightboard.png)
 (FightBoard : https://thnikk.moe/)
 
-![image](photos/C64joykey.png)
+![image](files/C64joykey.png)
 (C64 Joy Key: https://github.com/tebl/C64-JoyKEY)
 
 Based on these designs, I decided to make a version using the PCB of a mega drive controller.
