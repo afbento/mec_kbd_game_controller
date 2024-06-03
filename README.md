@@ -32,8 +32,40 @@ One with 3 buttons and another with 6 buttons but with cursor keys inspired by t
 
 Also there is STL files with 3d models of the layouts above described and two bases options. One with 11cm width for the 3-button layout and another 14cm width for the 6-button layouts.
 
+Below are some photos of the prototype build process:
 
+![image](photos/photo1.jpg)
 
+![image](photos/photo2.jpg)
+
+![image](photos/photo3.jpg)
+
+![image](photos/photo4.jpg)
+
+![image](photos/photo5.jpg)
+
+![image](photos/photo6.jpg)
+
+![image](photos/photo7.jpg)
+
+![image](photos/photo8.jpg)
+
+![image](photos/photo9.jpg)
+
+![image](photos/photo10.jpg)
+
+![image](photos/photo11.jpg)
+
+![image](photos/photo12.jpg)
+
+![image](photos/photo13.jpg)
+
+![image](photos/photo14.jpg)
+
+I also did some tests playing on MSX: 
+[(link)](https://www.youtube.com/shorts/_sk8wwjUQyE)
+[(link)](https://www.youtube.com/shorts/MAijYQ0Ai3I)
+[(link)](https://www.youtube.com/shorts/h--YPag6jBE)
 
 
 
