@@ -30,7 +30,7 @@ Inside there is a Mega Drive 6-buttons game controller PCB connected by wires to
 In [/files](https://github.com/afbento/mec_kbd_game_controller/files) folder there is a PDF and a DWG files with the layout of the prototype made and two other examples. 
 One with 3 buttons and another with 6 buttons, but with cursor keys inspired by the [Hitbox game controller](https://www.hitboxarcade.com/)
 
-There are also STL files with 3d models of the layouts above described and two housing options. One with 11cm width for the 3-button layout and another 14cm width for the 6-button layouts.
+There are also STL files with 3d models of the layouts above described and two housing options. One with 11cm width for the 3-button layout and another with 14cm width for the 6-button layouts.
 
 Below are some photos of the prototype build process:
 
